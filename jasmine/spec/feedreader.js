@@ -87,7 +87,7 @@ $(function() {
          * the use of Jasmine's beforeEach and asynchronous done() function.
          */
         beforeEach(function(done) {
-            loadFeed(1,function(){
+            loadFeed(0,function(){
                 done();
             });
 
