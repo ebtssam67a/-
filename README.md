@@ -41,3 +41,4 @@ in fourth test named "New Feed Selection" - it tests to make sure that the
 * when a new feed is loaded by the loadFeed function that the content actually changes. 
 Remember, loadFeed() is asynchronous.
  
+# feedreader
